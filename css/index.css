@@ -1,0 +1,42 @@
+/**
+ * @author Sarathmon K R
+ * @email sarathmonkr1234@gmail.com
+ * @create date 2022-06-07 10:13:54
+ * @modify date 2022-06-07 10:13:54
+ * @desc [description]
+ */
+ body{
+    background-color: rgba(0,0,0,0.8);
+}
+ .banner{
+     background-image: url('../img/bg1.jpg');
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ .h10{
+     font-size: 14px;
+ }
+ .navbar1{
+     background-color: rgba(0,0,0,0.3);
+     color: white;
+ }
+ .vh-70{
+     height: 70vh;
+ }
+ .icon1{
+     font-size: 60px;
+ }
+ .section2-div{
+     background-color: rgba(0,0,0,0.2);
+ }
+ .clickgb{
+    background-color: rgba(0,0,0,0.2);
+ }
+ .team{
+    height: 100px;
+ }
+ @media screen and (max-width:576px){
+    .team{
+        height: 100%;
+     }
+ }
